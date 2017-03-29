@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("gil");
 
+        System.out.println("becker");
+
+
         setContentView(R.layout.activity_main);
         displayGrid();
     }
